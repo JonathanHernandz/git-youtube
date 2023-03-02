@@ -8,5 +8,7 @@
 6. `git log`
 7. `git commit --amend` modifica el ultimo commit, la tecla `i` para poder ingresar texto, ingresamos el texto y despues presionamos la tecla `esc`, ingresamos `:` y la tecla `wq!`
 `w` write para escribir, `q` para salir, `!` para hacerlo al instante
-8. `git checkout -b rama-heroes`
-9. `git checkout master`
+8. `git checkout -b rama-heroes` creamos una nueva rama `b` para crear una nueva rama
+9. `git checkout master` nos cambiamos de rama
+10. `git branch` saber en que rama estamos
+11. `git push` los ultimos cambios los va a guardar en github
