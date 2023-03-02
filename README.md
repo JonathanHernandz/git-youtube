@@ -12,3 +12,4 @@
 9. `git checkout master` nos cambiamos de rama
 10. `git branch` saber en que rama estamos
 11. `git push` los ultimos cambios los va a guardar en github
+12. `git commit -am` hace los pasos git add y git commit a la vez
