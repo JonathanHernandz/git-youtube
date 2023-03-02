@@ -8,3 +8,4 @@
 6. `git log`
 7. `git commit --amend` modifica el ultimo commit, la tecla `i` para poder ingresar texto, ingresamos el texto y despues presionamos la tecla `esc`, ingresamos `:` y la tecla `wq!`
 `w` write para escribir, `q` para salir, `!` para hacerlo al instante
+8. `git branch` saber en que rama estamos trabajando
